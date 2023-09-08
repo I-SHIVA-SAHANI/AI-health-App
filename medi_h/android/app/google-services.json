@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "940312418341",
+    "project_id": "medi-h",
+    "storage_bucket": "medi-h.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940312418341:android:1c69f8417a2afddc1a47cc",
+        "android_client_info": {
+          "package_name": "com.example.medi_h"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940312418341-icnlf22baflq2a1rbl49331o47q1ppgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOcgqB2B_PC8x-NUyGYgdMlTUI-x9HdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940312418341-icnlf22baflq2a1rbl49331o47q1ppgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940312418341-dlimj2dqnc18utg9ichoaklj1r2shf14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medih"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
